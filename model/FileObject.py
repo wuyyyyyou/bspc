@@ -1,3 +1,8 @@
+"""
+表示文件信息
+"""
+
+
 class FileObject:
     FILE = "FILE"
     VIDEO = "VIDEO"
