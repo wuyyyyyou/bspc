@@ -11,7 +11,6 @@ class OperationType:
     GET_VIDEO = "GET_VIDEO"
     GET_AUDIO = "GET_AUDIO"
     GET_IMAGE = "GET_IMAGE"
-    GET_POST = "GET_POST"
     SEND_FILE = "SEND_FILE"
     SEND_VIDEO = "SEND_VIDEO"
     SEND_AUDIO = "SEND_AUDIO"
